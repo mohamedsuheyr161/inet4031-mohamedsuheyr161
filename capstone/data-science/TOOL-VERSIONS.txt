@@ -1,0 +1,20 @@
+INET 4031 Applied Data Science - Tool Versions
+Mon Nov 23 04:20:15 AM UTC 2026
+=== Python ===
+Python 3.14.4
+=== Python Packages ===
+Name: pandas
+Version: 3.1.1
+Name: matplotlib
+Version: 3.11.2
+Name: scipy
+Version: 1.18.1
+Name: csvkit
+Version: 2.2.0
+=== PostgreSQL ===
+psql (PostgreSQL) 16.15 (Debian 16.15-1.pgdg13+2)
+=== Kubernetes ===
+Client Version: v1.36.5+k3s1
+Kustomize Version: v5.8.1
+=== jq ===
+jq-1.8.1

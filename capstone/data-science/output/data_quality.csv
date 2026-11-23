@@ -1,0 +1,6 @@
+check,value,expected,status
+total_records,10000,>=10000,PASS
+days_covered,90,>=90,PASS
+missing_categories,0,0,PASS
+closed_missing_resolution,0,0,PASS
+duplicate_ticket_ids,0,0,PASS
